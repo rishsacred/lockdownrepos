@@ -1,0 +1,16 @@
+img {
+    width: 200px;
+}
+body{
+    text-align: center;
+
+    font-family: 'Times New Roman', Times, serif
+    background green;
+    background: green;
+    color: blue; 
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -weblot-background-clip: text;
+    color: transparent;
+}
+}
